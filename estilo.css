@@ -1,11 +1,23 @@
 body {
   font-family: 'Archivo Narrow', sans-serif;
 }
-th {text-align: left;}
+h1{
+  font-size: 40px;
+}
+h2 {
+  font-size: 20px;
+}
 a {
   color:#e53a47;
 }
 a:hover {
   color:#a93b40;
 }
+p.descripcion {
+  line-height: 22px;
+}
+/* TABLA */
+th {text-align: left;}
+
+
 th,td {padding: 8px;}
