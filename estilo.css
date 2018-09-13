@@ -2,3 +2,10 @@ body {
   font-family: 'Archivo Narrow', sans-serif;
 }
 th {text-align: left;}
+a {
+  color:#e53a47;
+}
+a:hover {
+  color:#a93b40;
+}
+th,td {padding: 8px;}
